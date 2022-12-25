@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Program Lead at Code for India Foundation where I help people to build their Careers in Tech.<br><br>I have been working on a lot of real-time projects that help me gain loads of experience in Full Stack Web Development.<br><br>Built Designed and Shipped Secure Full Stack Web Applications on Cloud with Experiences in Automating the Cloud Pipelines for Deployment<br><br>I've also worked with Teams and Collaborative Code Base with multiple developers.<br><br><br>Obsessed over star_struck<br><br>Startups<br>Web 3.0<br>Designing game<br>Product Development technologist<br>
+I help people to build their Careers in Tech.<br><br>I have been working on a lot of real-time projects that help me gain loads of experience in Full Stack Web Development.<br><br>Built Designed and Shipped Secure Full Stack Web Applications on Cloud with Experiences in Automating the Cloud Pipelines for Deployment<br><br>I've also worked with Teams and Collaborative Code Base with multiple developers.<br><br><br>Obsessed over star_struck<br><br>Startups<br>Web 3.0<br>Designing game<br>Product Development technologist<br>
 
 
 ## 🌐 Socials:
